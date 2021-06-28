@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\CATALOGO\presentacion-consola\bin\Debug\presentacion-consola.exe.config
+C:\Users\Admin\source\repos\CATALOGO\presentacion-consola\bin\Debug\presentacion-consola.exe
+C:\Users\Admin\source\repos\CATALOGO\presentacion-consola\bin\Debug\presentacion-consola.pdb
+C:\Users\Admin\source\repos\CATALOGO\presentacion-consola\bin\Debug\dominio.dll
+C:\Users\Admin\source\repos\CATALOGO\presentacion-consola\bin\Debug\negocio.dll
+C:\Users\Admin\source\repos\CATALOGO\presentacion-consola\bin\Debug\dominio.pdb
+C:\Users\Admin\source\repos\CATALOGO\presentacion-consola\bin\Debug\negocio.pdb
+C:\Users\Admin\source\repos\CATALOGO\presentacion-consola\obj\Debug\presentacion-consola.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CATALOGO\presentacion-consola\obj\Debug\presentacion-consola.csproj.CopyComplete
+C:\Users\Admin\source\repos\CATALOGO\presentacion-consola\obj\Debug\presentacion-consola.exe
+C:\Users\Admin\source\repos\CATALOGO\presentacion-consola\obj\Debug\presentacion-consola.pdb
+C:\Users\Admin\source\repos\CATALOGO\presentacion-consola\obj\Debug\presentacion-consola.csproj.AssemblyReference.cache

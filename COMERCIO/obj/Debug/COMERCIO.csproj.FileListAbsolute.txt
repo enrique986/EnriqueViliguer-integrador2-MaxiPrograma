@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\CATALOGO\COMERCIO\bin\Debug\COMERCIO.exe.config
+C:\Users\Admin\source\repos\CATALOGO\COMERCIO\bin\Debug\COMERCIO.exe
+C:\Users\Admin\source\repos\CATALOGO\COMERCIO\bin\Debug\COMERCIO.pdb
+C:\Users\Admin\source\repos\CATALOGO\COMERCIO\obj\Debug\COMERCIO.FrmComercio.resources
+C:\Users\Admin\source\repos\CATALOGO\COMERCIO\obj\Debug\COMERCIO.frmAgregar.resources
+C:\Users\Admin\source\repos\CATALOGO\COMERCIO\obj\Debug\COMERCIO.Properties.Resources.resources
+C:\Users\Admin\source\repos\CATALOGO\COMERCIO\obj\Debug\COMERCIO.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CATALOGO\COMERCIO\obj\Debug\COMERCIO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CATALOGO\COMERCIO\obj\Debug\COMERCIO.exe
+C:\Users\Admin\source\repos\CATALOGO\COMERCIO\obj\Debug\COMERCIO.pdb
+C:\Users\Admin\source\repos\CATALOGO\COMERCIO\bin\Debug\dominio.dll
+C:\Users\Admin\source\repos\CATALOGO\COMERCIO\bin\Debug\negocio.dll
+C:\Users\Admin\source\repos\CATALOGO\COMERCIO\bin\Debug\dominio.pdb
+C:\Users\Admin\source\repos\CATALOGO\COMERCIO\bin\Debug\negocio.pdb
+C:\Users\Admin\source\repos\CATALOGO\COMERCIO\obj\Debug\COMERCIO.csproj.CopyComplete
+C:\Users\Admin\source\repos\CATALOGO\COMERCIO\obj\Debug\COMERCIO.csproj.AssemblyReference.cache
